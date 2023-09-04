@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+wait: 5
+login: nasty2008
+passwd: bbabab5544bb
+title: THE NEW POST CREATED BY SELENIUM
+description: SELENIUM HERE!
+content: THIS IS CONTENT POSTET BY SELENIUM!
